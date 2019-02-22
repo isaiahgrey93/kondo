@@ -1,0 +1,18 @@
+{
+  "name": "kondo",
+  "version": "0.0.1",
+  "description": "Make your code spark joy again.",
+  "license": "MIT",
+  "repository": "isaiahgrey93/kondo",
+  "main": "index.js",
+  "keywords": [
+    "javascript",
+    "typescript"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.4"
+  }
+}
